@@ -7,6 +7,7 @@
 
 ## Pratical websites
 * https://ethernaut.openzeppelin.com/
+* https://cryptozombies.io/
 
 ## Youtube Video and Channel
 * https://www.youtube.com/@andyli (Andy Li)
