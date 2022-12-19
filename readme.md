@@ -8,7 +8,7 @@
 * https://github.com/arunimshukla/Best-DeFi-Security-Practices
 * https://github.com/immunefi-team/Web3-Security-Library?utm_source=immunefi
 
-## Pratical websites
+## Practical websites
 * https://www.damnvulnerabledefi.xyz/
  ```
  Solutions to the above link
