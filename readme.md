@@ -1,7 +1,9 @@
 # Good resources to get a deep understanding
 
 ## Concept websites
+* https://code4rena.com/reports
 * https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc
+* https://cmichel.io/ethernaut-solutions/ (Cmichel - Top Bug hunter on code4rena)
 
 ## Pratical websites
 * https://ethernaut.openzeppelin.com/
