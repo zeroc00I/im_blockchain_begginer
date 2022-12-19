@@ -3,6 +3,7 @@
 ## Concept websites
 * https://code4rena.com/reports
 * https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc
+* https://github.com/arunimshukla/Best-DeFi-Security-Practices
 * https://cmichel.io/ethernaut-solutions/ (Cmichel - Top Bug hunter on code4rena)
 
 ## Pratical websites
