@@ -27,7 +27,7 @@
 
 ## Keywords
 
-@cmichelio
+[@cmichelio](https://twitter.com/cmichelio)
 
 Become familiar with the most used smart contracts
 There are certain contracts, patterns or even algorithms that you will see over and over again during your auditing career. It’s good to become familiar with them and deeply understand how they work and their nuances.
