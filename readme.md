@@ -1,6 +1,7 @@
 # Good resources to get a deep understanding
 
 ## Concept websites
+* https://swcregistry.io/ (Smart Contract Weakness Classification and Test Cases) [offers a complete and up-to-date catalogue of known smart contract vulnerabilities and anti-patterns along with real-world examples]
 * https://code4rena.com/reports
 * https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc
 * https://github.com/arunimshukla/Best-DeFi-Security-Practices
