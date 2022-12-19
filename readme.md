@@ -7,6 +7,11 @@
 * https://github.com/immunefi-team/Web3-Security-Library?utm_source=immunefi
 
 ## Pratical websites
+* https://www.damnvulnerabledefi.xyz/
+ ```
+ Solutions to the above link
+ * https://cmichel.io/ethernaut-solutions/ (Cmichel - Top Bug hunter on code4rena)
+ ```
 * https://ethernaut.openzeppelin.com/
  ```
  Solutions to the above link
