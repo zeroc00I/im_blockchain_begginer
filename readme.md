@@ -10,6 +10,7 @@
 * https://ethernaut.openzeppelin.com/
   * Solution to the above link: https://stermi.medium.com/lets-play-ethernaut-ctf-learning-solidity-security-while-playing-1678bd6db3c4
 * https://cryptozombies.io/
+* https://capturetheether.com/
 
 ## Youtube Video and Channel
 * https://www.youtube.com/@andyli (Andy Li)
