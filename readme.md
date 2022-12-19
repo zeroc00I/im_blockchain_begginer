@@ -40,7 +40,8 @@ Ethereum contracts are not upgradeable. If you want to update the code, you need
 The MasterChef is a staking contract where users deposit liquidity pool (LP) tokens and receive rewards proportional to their time * stakeAmount. This contract has been forked a lot but the main reason why it’s important to understand is that its reward algorithm appears in many different places. Paradigm calls it the Billion-dollar algorithm. You should understand how it works and why it’s needed in a blockchain setting (cannot update all users at the same time).
 ```
 * Compound
-```I’d say Compound is the basis for all decentralized peer-to-peer lending protocols. You should know it as a lot of DeFi primitives interact with lending protocols in some way. The code is also cleaner than Aave’s and it’s a great example of what good documentation looks like. Its Governor & TimeLock contracts are used as governance contracts of many other protocols as well. You should notice the similarities between the MasterChef reward algorithm and the way debt is accrued for the user through borrowIndex.
+```
+I’d say Compound is the basis for all decentralized peer-to-peer lending protocols. You should know it as a lot of DeFi primitives interact with lending protocols in some way. The code is also cleaner than Aave’s and it’s a great example of what good documentation looks like. Its Governor & TimeLock contracts are used as governance contracts of many other protocols as well. You should notice the similarities between the MasterChef reward algorithm and the way debt is accrued for the user through borrowIndex.
 ```
 * UniswapV2
 ```
