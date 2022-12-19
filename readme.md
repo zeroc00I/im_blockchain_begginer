@@ -8,7 +8,11 @@
 
 ## Pratical websites
 * https://ethernaut.openzeppelin.com/
-  * Solution to the above link: https://stermi.medium.com/lets-play-ethernaut-ctf-learning-solidity-security-while-playing-1678bd6db3c4
+ ```
+ Solutions to the above link
+ * https://stermi.medium.com/lets-play-ethernaut-ctf-learning-solidity-security-while-playing-1678bd6db3c4
+ * https://cmichel.io/ethernaut-solutions/
+```
 * https://cryptozombies.io/
 * https://capturetheether.com/
 
