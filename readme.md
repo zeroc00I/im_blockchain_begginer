@@ -36,6 +36,7 @@
 * https://www.youtube.com/@andyli (Andy Li)
 * https://www.youtube.com/watch?v=aX7ye0yyynY (Attacking an Ethereum L2 with Unbridled Optimism @ UCSB CCS W2022)[Jay Freeman]
 * https://youtu.be/Fr6b-fjn-zE?t=195 (Top Wardens Cmichel and 0xLeastwood face-off during the C4 Showdown Game Show)
+* https://www.youtube.com/watch?v=BzdzgoSYA-Y (Web3 and Smart Contracts Security and Auditing: Interview with @krum | JohnnyTime)
 
 ## Keywords
 
