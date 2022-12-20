@@ -1,4 +1,7 @@
 # Good resources to get a deep understanding
+## Referer Books
+#### Mastering Ethereum
+* https://www.amazon.com.br/Mastering-Ethereum-Andreas-Antonopoulos/dp/1491971940
 
 ## Concept websites
 * https://swcregistry.io/ (Smart Contract Weakness Classification and Test Cases) [offers a complete and up-to-date catalogue of known smart contract vulnerabilities and anti-patterns along with real-world examples]
