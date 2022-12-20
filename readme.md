@@ -1,5 +1,5 @@
 # Good resources to get a deep understanding
-## Referer Books
+## Reference Book
 #### Mastering Ethereum
 * https://www.amazon.com.br/Mastering-Ethereum-Andreas-Antonopoulos/dp/1491971940
 
