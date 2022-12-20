@@ -11,6 +11,9 @@
 * https://github.com/arunimshukla/Best-DeFi-Security-Practices
 * https://github.com/immunefi-team/Web3-Security-Library?utm_source=immunefi
 
+## Githubs
+* https://github.com/crytic/awesome-ethereum-security
+
 ## Practical websites
 #### Damn Vulnerable DEFI
 * https://www.damnvulnerabledefi.xyz/
